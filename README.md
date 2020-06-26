@@ -1,13 +1,12 @@
 # MIPS 프로세서 디자인
 
 ![Language][language-verilog-hdl]
-![Library][library-opengl]
 <br>
 ![Participants][participants-solo]
 <br>
 [![School Project][korea-university-image]][korea-university-cs-url]
 ![Course][course-cose331]
-![Grade][grade-a+]
+![Grade][grade-b+]
 
 > Verilog HDL로 디자인한 교육용 MIPS 보드에서 작동하는 간단한 프로세서입니다.
 
