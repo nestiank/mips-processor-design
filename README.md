@@ -14,7 +14,8 @@
 
 <img src="documents/screenshot.png" height="400px">
 
-### 개발 기간
+### 작업 기간
+
 2019년 하반기
 
 ### 라이선스 및 공동체 수정
