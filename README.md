@@ -8,7 +8,7 @@
 ![course-computer-architecture][course-cose222]
 ![grade-b+][grade-b+]
 
-> Verilog HDL로 디자인한 교육용 MIPS 보드에서 작동하는 간단한 프로세서입니다.
+> Verilog HDL로 교육용 MIPS 보드에서 작동하는 간단한 프로세서를 구현했습니다.
 
 ### 스크린샷
 
