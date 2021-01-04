@@ -31,5 +31,5 @@
 [korea-university-cs-url]: http://cs.korea.ac.kr
 [course-cose222]: https://img.shields.io/badge/Course-Computer%20Architecture-brightgreen
 [language-verilog-hdl]: https://img.shields.io/badge/Language-Verilog%20HDL-orange
-[grade-b+]: https://img.shields.io/badge/Grade-B%2B-yellow
+[grade-b+]: https://img.shields.io/badge/Grade-B+-yellow
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
